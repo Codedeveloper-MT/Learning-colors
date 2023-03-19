@@ -1,0 +1,57 @@
+*{
+background: black;
+color: white;
+}
+#BtnRed{
+  background-color: red;
+  color: black;
+  font-size: 100%;
+  width: 20%;
+  height:100px;
+  cursor: pointer;
+}
+#BtnYellow{
+  background-color: yellow;
+  color: black;
+  font-size: 100%;
+  width: 20%;
+  height:100px;
+  cursor: pointer;
+
+}
+#BtnLime{
+  background-color:lime;
+  color: black;
+  font-size: 100%;
+  width: 20%;
+  height:100px;
+  cursor: pointer;
+
+}
+h2,span,h1{
+  text-align: center;
+
+}
+#form{
+  background-color: white;
+  margin-left: 50%;
+  margin-right: 50%;
+  width:70%;
+  height: 100%;
+}
+#BtnGreen{
+  background-color: Green;
+  color: black;
+  font-size: 100%;
+  width: 20%;
+  height:100px;
+  cursor: pointer;
+}
+#BtnBlue{
+  background-color: Blue;
+  color: black;
+  font-size: 100%;
+  width: 20%;
+  height:100px;
+  cursor: pointer;
+}
